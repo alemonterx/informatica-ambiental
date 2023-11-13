@@ -8,5 +8,9 @@
 ## REFERENCIAS
 
 ## AUTORES
+* Alejandro Montero Agroba
+* Jesús González Aragón
+* Ildefonso Sánchez Romero
 
 ## LICENCIA
+![Licencia](img/licencia.png)
