@@ -9,7 +9,7 @@ Estos residuos son peligrosos debido a la gran contaminación que generan, ya qu
 
 Uno de los grandes problemas de su contaminación es el aumento en el cambio climático que conlleva.
 ## 3. ¿Qué hacer con ellos?
-- Lo mejor que se puede hacer con estos residuos informáticos es aplicar las 3 R:
+Lo mejor que se puede hacer con estos residuos informáticos es aplicar las 3 R:
 * **Reducir**: El usuario no debe dejarse llevar por las empresas que están fabricados modelos nuevos constantemente.
 * **Reutilizar**: Hacer que nuestros amigos/familiares hereden esos aparatos electrónicos.
 * **Reciclar**: Cuando este aparato informático deja de funcionar su puede optar por reciclarlo o incluso devolverlo a la empresa donde se compró o alguna que se dedique al recondicionado de estos dispositivos.
