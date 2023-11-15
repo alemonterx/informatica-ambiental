@@ -4,8 +4,8 @@
 
 Estas acciones **dañan** tanto a los humanos como a los otros seres vivos, siendo perjudical también para **la naturaleza**.
 
-## Consecuencias [^2]
-Aumenta el riesgo de:
+## Consecuencias
+Aumenta el riesgo de[^2]:
 * Infecciones respiratorios
 
 * Enfermedades cardiacas
