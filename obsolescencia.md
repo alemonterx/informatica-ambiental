@@ -2,9 +2,7 @@
 
 ![Imagentitulo](img/IMGTITULO.jpg)
 
-Seguro que te has dado cuenta de que el jersey que te compraste hace 3 meses no luce igual que ese de tu abuela que te quedaste porque te encantó su rollo vintage.
-
-El de tu abuela no tiene bolitas, abriga que da gusto y tiene las costuras fuertes. El que te compraste hace unas semanas ya tiene desperfectos y lo has usado unas 3 veces, dudas de que vaya a durar mucho en tu armario.
+Quizás hayas notado que el reloj de pulsera que heredaste de tu padre sigue luciendo elegante y funcionando a la perfección después de décadas. En cambio, aquel reloj de marca que compraste hace apenas unos meses ya muestra signos de desgaste, la correa se ve desgastada y la maquinaria no funciona tan suavemente como al principio.
 Eso es lo que se llama **obsolescencia programada**
 
 ## Que es la obsolescencia programada
