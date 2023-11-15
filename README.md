@@ -4,7 +4,7 @@
 [![Actividad de proyecto](https://img.shields.io/badge/Actividad-purple)](https://github.com/alemonterx/informatica-ambiental/activity)
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-brown)](https://github.com/alemonterx/informatica-ambiental/graphs/contributors)
 
-<img src="img/portada.jpg" alt="Medioambiente" width="200px">
+<img src="img/portada.jpg" alt="Medioambiente" width="800px">
 
 > Este proyecto recoge información sobre la contaminación ambiental que producen los residuos informáticos, lo que provoca y como evitarla.
 
