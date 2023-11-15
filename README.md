@@ -1,5 +1,9 @@
 # PROTECCIÓN MEDIOAMBIENTAL
+
 ![Medioambiente](img/portada.jpg)
+
+> Este proyecto recoge información sobre la contaminación ambiental que producen los residuos informáticos, lo que provoca y como evitarla.
+
 ## ÍNDICE
 1. [¿Qué es la contaminación ambiental?](contaminacion.md)
 2. [Residuos informáticos](residuos.md)
