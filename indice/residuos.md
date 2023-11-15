@@ -1,6 +1,6 @@
 # RESIDUOS INFORMÁTICOS
 
-![residuos](img/residuos.jpg)
+![residuos](informatica-ambiental/img/residuos.jpg)
 
 ## 1. ¿Qué son?
 Son aquellos productos eléctricos o electrónicos, que ha sido desechados debido a que son demasiado antiguos, tienen algún tipo de fallo y no funciona, o directamente los han descartado porque ha salido un modelo mas nuevo todavía.
