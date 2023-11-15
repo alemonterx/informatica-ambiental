@@ -18,6 +18,6 @@ Entre otros, esos son algunos de los riegos de estar expuestos a la contaminacio
 
 Referencias
 ----
-[Enlace 1](https://www.culturarecreacionydeporte.gov.co/es/bogotanitos/que-es-la-contaminacion-ambiental)
+[Bogotanitos](https://www.culturarecreacionydeporte.gov.co/es/bogotanitos/que-es-la-contaminacion-ambiental)
 
-[Enlace 2](https://www.paho.org/es/temas/calidad-aire-salud/contaminacion-aire-ambiental-exterior-vivienda-preguntas-frecuentes)
+[OPS](https://www.paho.org/es/temas/calidad-aire-salud/contaminacion-aire-ambiental-exterior-vivienda-preguntas-frecuentes)
